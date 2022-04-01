@@ -22,18 +22,6 @@ eat() {
 
 
 
-// eat() {
-//   if(this.hungry === hungry) {
-//     return true
-//     }
-//     return false
-//   }
-//
-// }
-
-
-
-
 
 
 
